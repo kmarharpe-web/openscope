@@ -1,6 +1,37 @@
 {
-icao: snak
-level: hard
-name: Snake City Airport
-premium: False
+"icao": snak
+"level": hard
+"name": Snake City Airport
+"premium": False
+    "runways"[
+    {
+    "name": [09L,27R]
+    "end": [
+      [ 41.9763, -87.9221, 651 ],
+      [ 41.9741, -87.8914, 650 ]
+    ],
+    "ils": [ true, true ],
+    "ils_distance": [ 18, 18 ],
+    "glideslope": [ 3.0, 3.0 ]
+    }
+    {
+    "name": [09C,27C]
+    "end": [
+      [ 31.9763, -87.9221, 651 ],
+      [ 31.9741, -87.8914, 650 ]
+    ],
+    "ils": [ true, true ],
+    "ils_distance": [ 18, 18 ],
+    "glideslope": [ 3.0, 3.0 ]
+    }
+    {
+    "name": [09R,27L]
+    "end": [
+      [ 21.9763, -87.9221, 651 ],
+      [ 21.9741, -87.8914, 650 ]
+    ],
+    "ils": [ true, true ],
+    "ils_distance": [ 18, 18 ],
+    "glideslope": [ 3.0, 3.0 ]
+    }
 }
