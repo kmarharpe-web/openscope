@@ -1,21 +1,17 @@
 {
-  "icao": "snk"
-  "name": "snake airlines"
-"callsign":{
-  "name": "Snake"
-  "callsignFormats": [
-      "#"
-      "##"
-      "###"
-  ]
-}
-    "fleets": {
-        "default": [
-     ["a321", 35],
-     ["b739", 25],
-     ["b789", 25],
-     ["a333", 10],
-     ["b77w", 5]
-        ]
-    }
+  "icao": "snk",
+  "name": "Snake Airlines",
+  "callsign": {
+    "name": "Snake",
+    "length": 3
+  },
+  "fleets": {
+    "default": [
+      ["a321", 35],
+      ["b739", 25],
+      ["b789", 25],
+      ["a333", 10],
+      ["b77w", 5]
+    ]
+  }
 }
