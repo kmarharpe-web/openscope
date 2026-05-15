@@ -2181,7 +2181,8 @@
                 ["baw/long", 2],
                 ["jal/long", 8],
                 ["sas/long", 2],
-                ["sbi", 1]
+                ["sbi", 1],
+                ["snk", 10]
             ]
         },
         {
@@ -2197,7 +2198,8 @@
                 ["ana/long", 2],
                 ["dal/long", 1],
                 ["hal/long", 1],
-                ["jal/long", 1]
+                ["jal/long", 1]'
+                ["snk", 4]
             ]
         },
         {
@@ -2213,7 +2215,8 @@
                 ["aca/long", 1],
                 ["ana/long", 7],
                 ["dal/long", 6],
-                ["jal/long", 4]
+                ["jal/long", 4],
+                ["snk", 10]
             ]
         },
         {
@@ -2226,7 +2229,8 @@
             "method": "random",
             "rate": 0.38,
             "airlines": [
-                ["ana/short", 6]
+                ["ana/short", 6],
+                ["snk", 16]
             ]
         },
         {
@@ -2240,7 +2244,8 @@
             "rate": 0.63,
             "airlines": [
                 ["ana/short", 4],
-                ["jal/short", 6]
+                ["jal/short", 6],
+                ["snk", 15]
             ]
         },
         {
@@ -2255,7 +2260,8 @@
             "airlines": [
                 ["ana/short", 19],
                 ["jal/short", 10],
-                ["kal", 4]
+                ["kal", 4],
+                ["snk", 30]
             ]
         },
         {
@@ -2272,7 +2278,8 @@
                 ["jal/short", 31],
                 ["sfj", 10],
                 ["sky", 15],
-                ["snj", 6]
+                ["snj", 6],
+                ["snk", 45]
             ]
         },
         {
@@ -2291,7 +2298,8 @@
                 ["jal", 41],
                 ["sfj", 20],
                 ["sky", 10],
-                ["snj", 9]
+                ["snj", 9],
+                ["snk", 50]
             ]
         },
         {
@@ -2311,7 +2319,8 @@
                 ["sky", 13],
                 ["snj", 14],
                 ["tha/long", 2],
-                ["pal/long", 2]
+                ["pal/long", 2],
+                ["snk", 100]
             ]
         },
         {
@@ -2350,7 +2359,8 @@
                 ["ana/long", 2],
                 ["dal/long", 1],
                 ["hal/long", 1],
-                ["jal/long", 1]
+                ["jal/long", 1],
+                ["snk", 3]
             ]
         },
         {
@@ -2366,7 +2376,8 @@
                 ["aca/long", 1],
                 ["ana/long", 7],
                 ["dal/long", 6],
-                ["jal/long", 4]
+                ["jal/long", 4],
+                ["snk", 10]
             ]
         },
         {
@@ -2384,7 +2395,8 @@
                 ["kal", 4],
                 ["sfj", 10],
                 ["sky", 15],
-                ["snj", 6]
+                ["snj", 6],
+                ["snk", 67]
             ]
         },
         {
@@ -2406,7 +2418,8 @@
                 ["sky", 23],
                 ["snj", 23],
                 ["tha/long", 2],
-                ["pal/long", 2]
+                ["pal/long", 2],
+                ["snk", 120]
             ]
         }
     ],
